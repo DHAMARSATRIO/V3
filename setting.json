@@ -1,9 +1,10 @@
 {
-"autoread": false,
-"OwnerNumber": "6283891921787", 
-"OwnerNumber2": "6283891921787", 
+"autoread": true,
+"OwnerNumber": "6288225413262", 
+"OwnerNumber2": "6281390650967", 
 "OwnerName": "Ryuuka", 
 "OwnerName2": "Ryuuka",
+"SessionsName":"sessions",
 "Fake": "© Ryuuka", 
 "BotName": "RyuBotzS2", 
 "RyuKey": "RyuBotz", 
